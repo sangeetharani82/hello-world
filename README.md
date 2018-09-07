@@ -1,2 +1,3 @@
 # hello-world
 first sample project
+This is my first ever VCS edit or commit whatever...
